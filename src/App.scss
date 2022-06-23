@@ -1,6 +1,7 @@
 html, body {
 	padding: 0;
 	margin: 0;
+	box-sizing: border-box;
 	font-family: var(--font-family);
 }
 
@@ -46,6 +47,7 @@ a {
 
 .product--active {
 	border: 7px solid var(--green);
+	transform: scale(1);
 }
 
 

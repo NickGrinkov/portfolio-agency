@@ -5,7 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "start": "webpack-dev-server --mode development",
-    "start-server": "npx json-server --watch db.json"
+    "start-server": "npx json-server --watch db.json --port 3001"
   },
   "keywords": [
     "react",

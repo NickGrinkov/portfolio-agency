@@ -10,10 +10,10 @@ const Header = () => {
         <span>Agency</span>
       </div>
       <nav className="header__nav">
-        <a href="">About</a>
-        <a href="">Services</a>
-        <a href="">Pricing</a>
-        <a href="">Blog</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Pricing</a>
+        <a href="#">Blog</a>
       </nav>
       <button className="header__button button">CONTACT</button>
       <div className="header__info">
