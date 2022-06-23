@@ -1,0 +1,57 @@
+{
+  "products": [
+    { "id": 1, 
+      "name": "SOFA",
+      "category": "Design",
+      "img": "https://img.freepik.com/free-photo/christmas-birthday-any-other-celebration-gift-wrapped-black-paper-white-wooden-background_471801-929.jpg?size=626&ext=jpg&ga=GA1.2.1002815248.1655907718"
+    },
+    {
+      "id": 2,
+      "name": "SOFA",
+      "category": "Design",
+      "img": "https://img.freepik.com/free-photo/christmas-birthday-any-other-celebration-gift-wrapped-black-paper-white-wooden-background_471801-929.jpg?size=626&ext=jpg&ga=GA1.2.1002815248.1655907718"
+    },
+    {
+      "id": 3,
+      "name": "SOFA",
+      "category": "Design",
+      "img": "https://img.freepik.com/free-photo/christmas-birthday-any-other-celebration-gift-wrapped-black-paper-white-wooden-background_471801-929.jpg?size=626&ext=jpg&ga=GA1.2.1002815248.1655907718"
+    },
+    {
+      "id": 4,
+      "name": "SOFA",
+      "category": "Design",
+      "img": "https://img.freepik.com/free-photo/christmas-birthday-any-other-celebration-gift-wrapped-black-paper-white-wooden-background_471801-929.jpg?size=626&ext=jpg&ga=GA1.2.1002815248.1655907718"
+    },
+    {
+      "id": 5,
+      "name": "SOFA",
+      "category": "Design",
+      "img": "https://img.freepik.com/free-photo/christmas-birthday-any-other-celebration-gift-wrapped-black-paper-white-wooden-background_471801-929.jpg?size=626&ext=jpg&ga=GA1.2.1002815248.1655907718"
+    },
+    {
+      "id": 6,
+      "name": "SOFA",
+      "category": "Design",
+      "img": "https://img.freepik.com/free-photo/christmas-birthday-any-other-celebration-gift-wrapped-black-paper-white-wooden-background_471801-929.jpg?size=626&ext=jpg&ga=GA1.2.1002815248.1655907718"
+    },
+    {
+      "id": 7,
+      "name": "SOFA",
+      "category": "Design",
+      "img": "https://img.freepik.com/free-photo/christmas-birthday-any-other-celebration-gift-wrapped-black-paper-white-wooden-background_471801-929.jpg?size=626&ext=jpg&ga=GA1.2.1002815248.1655907718"
+    },
+    {
+      "id": 8,
+      "name": "SOFA",
+      "category": "Design",
+      "img": "https://img.freepik.com/free-photo/christmas-birthday-any-other-celebration-gift-wrapped-black-paper-white-wooden-background_471801-929.jpg?size=626&ext=jpg&ga=GA1.2.1002815248.1655907718"
+    },
+    {
+      "id": 9,
+      "name": "SOFA",
+      "category": "Design",
+      "img": "https://img.freepik.com/free-photo/christmas-birthday-any-other-celebration-gift-wrapped-black-paper-white-wooden-background_471801-929.jpg?size=626&ext=jpg&ga=GA1.2.1002815248.1655907718"
+    }
+  ]
+}

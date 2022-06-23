@@ -1,0 +1,76 @@
+.header {
+	display: grid;
+	justify-items: center;
+	padding: 16px 80px;
+	grid-template-areas: 
+	"logo nav contact"
+	".    info       .";
+	background-color: var(--black);
+	color: var(--white);
+	&__logo {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		width: 139px;
+		font-size: 24px;
+		grid-area: logo;
+	}
+	&__nav {
+		grid-area: nav;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		width: 522px;
+	}
+	&__button {
+		grid-area: contact;
+		background-color: var(--black);
+		color: var(--white);
+		border: 1px solid var(--grey);
+		&:hover {
+			background-color: var(--white);
+			color: var(--black);
+		}
+	}
+	&__info {
+		grid-area: info;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		width: 590px;
+		h1 {
+			font-size: 72px;
+		}
+		p {
+			text-align: center;
+			color: var(--grey);
+			font-size: 16px;
+			line-height: 32px;
+			margin-bottom: 40px;
+		}
+	}
+}
+
+@media screen and (max-width: 1040px) {
+	.header {
+		// width: auto;
+		padding-left: 23px;
+		padding-right: 23px;
+		grid-template-areas: 
+			"logo"
+			"info";
+		&__nav {
+			display: none;
+		}
+		&__button {
+			display: none;
+		}
+		&__info {
+			width: auto;
+			h1 {
+				font-size: 56px;
+				margin-bottom: 0px;
+			}
+		}
+	}
+}
